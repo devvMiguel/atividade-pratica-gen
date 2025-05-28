@@ -45,4 +45,3 @@ switch(codCargo){
         style: 'currency',
         currency: 'BRL',
     }).format(newSalar)}`);
-

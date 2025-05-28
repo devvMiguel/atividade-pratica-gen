@@ -12,7 +12,7 @@ if (idade >= 18 && idade <= 69){
     }
 }
 else{
-    console.log(`${nome} não está apto(a) para doar sangue!`);
+        console.log(`${nome} não está apto(a) para doar sangue!`);
     }
 
 if(idade >=60 && idade <= 69){
